@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &66006065747339390
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 66006065747339378}
+  - component: {fileID: 66006065747339377}
+  - component: {fileID: 66006065747339376}
+  - component: {fileID: 66006065747339391}
+  - component: {fileID: 2022514869}
+  m_Layer: 0
+  m_Name: Speech Bubble
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &66006065747339378
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 66006065747339390}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -178.1, y: -38.7, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &66006065747339377
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 66006065747339390}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!102 &66006065747339376
+TextMesh:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 66006065747339390}
+  m_Text: Meme is good
+  m_OffsetZ: 0
+  m_CharacterSize: 0.4
+  m_LineSpacing: 1
+  m_Anchor: 4
+  m_Alignment: 1
+  m_TabSize: 4
+  m_FontSize: 0
+  m_FontStyle: 0
+  m_RichText: 1
+  m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  m_Color:
+    serializedVersion: 2
+    rgba: 4294967295
+--- !u!114 &66006065747339391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 66006065747339390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a30b9b452ab2dc94d80fc2b738682e59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speechPoint: {fileID: 0}
+  ganondorf: {fileID: 8300000, guid: 71768711136253b42b3b2d8634a249b6, type: 3}
+  minutes: {fileID: 8300000, guid: 6b621e6841c8a0145ac66552c7528f50, type: 3}
+  ngl: {fileID: 8300000, guid: 6d737ee6bf59ca8478846e9134367f1d, type: 3}
+  overwatch: {fileID: 8300000, guid: fbb666233858d2244977c0fab130712b, type: 3}
+  turtles: {fileID: 8300000, guid: 9ba8477163a2c94419a02bf41a066bd7, type: 3}
+  devGang: {fileID: 8300000, guid: be8ab49761c574e48bee94487317b262, type: 3}
+  sequel: {fileID: 8300000, guid: dae936799313b8a44b8b2d64f374c46c, type: 3}
+  feature: {fileID: 8300000, guid: 20e987fe4a04e7d4eadc83326e1b5e05, type: 3}
+  coronas: {fileID: 8300000, guid: cc2514e70ab60b24594a3b25ed765e7f, type: 3}
+  gtab: {fileID: 8300000, guid: 742fb6dc88f6bf743a67c9e3b2f2896c, type: 3}
+  sunlight: {fileID: 8300000, guid: f8925e4140cbec34d898b3e563768dfa, type: 3}
+  nintendo: {fileID: 8300000, guid: 469d534d2813f3f4885d6000d2e14ba0, type: 3}
+  kojima: {fileID: 8300000, guid: bf406d37eac2bac479af53f2fce46c25, type: 3}
+  matty: {fileID: 8300000, guid: 037785cdca9a61d4ba1749fff7037270, type: 3}
+  olimar: {fileID: 8300000, guid: 0fc25ab809518844f88d19eb27475952, type: 3}
+  sans: {fileID: 8300000, guid: ee3649c8865bcc140818ab1aeb2e5b21, type: 3}
+  frames: {fileID: 8300000, guid: 869a7ac7dac0dd843bf5ded4051c2424, type: 3}
+  runtime: {fileID: 8300000, guid: 2b8892d3d01cead4baba881e8b714c2f, type: 3}
+  paid: {fileID: 8300000, guid: 8318ca76732bccf4bb6f432eabed434f, type: 3}
+  ligma: {fileID: 8300000, guid: f4990a868f910d44aa986ec5e2827f29, type: 3}
+  waifu: {fileID: 8300000, guid: 200da8f4c8bcfee479b4e9f6fa58682f, type: 3}
+  scout: {fileID: 8300000, guid: 676dc680b0cf3284fa643ce25ed60866, type: 3}
+  gitgud: {fileID: 8300000, guid: c0bf39255d6bfdb43884264e597d2bd0, type: 3}
+  money: {fileID: 8300000, guid: 5ae4c5bee6e99ef40bff634d059826d2, type: 3}
+  white: {fileID: 8300000, guid: cfa367846f428fe4b9927ab543c5517a, type: 3}
+  dad: {fileID: 8300000, guid: f7505dae39388454e85484d8a0e29f5d, type: 3}
+  ultraInstinct: {fileID: 8300000, guid: 3b5d75d1e97d1804ca969fb2b074512e, type: 3}
+  isSpawned: 0
+--- !u!82 &2022514869
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 66006065747339390}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

@@ -1,0 +1,1422 @@
+fileFormatVersion: 2
+guid: 2d419a85d331f1d4f9700c59f0b1783e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wii U - Super Mario Maker - Bob-omb NSMBU_0
+    21300002: Wii U - Super Mario Maker - Bob-omb NSMBU_1
+    21300004: Wii U - Super Mario Maker - Bob-omb NSMBU_2
+    21300006: Wii U - Super Mario Maker - Bob-omb NSMBU_3
+    21300008: Wii U - Super Mario Maker - Bob-omb NSMBU_4
+    21300010: Wii U - Super Mario Maker - Bob-omb NSMBU_5
+    21300012: Wii U - Super Mario Maker - Bob-omb NSMBU_6
+    21300014: Wii U - Super Mario Maker - Bob-omb NSMBU_7
+    21300016: Wii U - Super Mario Maker - Bob-omb NSMBU_8
+    21300018: Wii U - Super Mario Maker - Bob-omb NSMBU_9
+    21300020: Wii U - Super Mario Maker - Bob-omb NSMBU_10
+    21300022: Wii U - Super Mario Maker - Bob-omb NSMBU_11
+    21300024: Wii U - Super Mario Maker - Bob-omb NSMBU_12
+    21300026: Wii U - Super Mario Maker - Bob-omb NSMBU_13
+    21300028: Wii U - Super Mario Maker - Bob-omb NSMBU_14
+    21300030: Wii U - Super Mario Maker - Bob-omb NSMBU_15
+    21300032: Wii U - Super Mario Maker - Bob-omb NSMBU_16
+    21300034: Wii U - Super Mario Maker - Bob-omb NSMBU_17
+    21300036: Wii U - Super Mario Maker - Bob-omb NSMBU_18
+    21300038: Wii U - Super Mario Maker - Bob-omb NSMBU_19
+    21300040: Wii U - Super Mario Maker - Bob-omb NSMBU_20
+    21300042: Wii U - Super Mario Maker - Bob-omb NSMBU_21
+    21300044: Wii U - Super Mario Maker - Bob-omb NSMBU_22
+    21300046: Wii U - Super Mario Maker - Bob-omb NSMBU_23
+    21300048: Wii U - Super Mario Maker - Bob-omb NSMBU_24
+    21300050: Wii U - Super Mario Maker - Bob-omb NSMBU_25
+    21300052: Wii U - Super Mario Maker - Bob-omb NSMBU_26
+    21300054: Wii U - Super Mario Maker - Bob-omb NSMBU_27
+    21300056: Wii U - Super Mario Maker - Bob-omb NSMBU_28
+    21300058: Wii U - Super Mario Maker - Bob-omb NSMBU_29
+    21300060: Wii U - Super Mario Maker - Bob-omb NSMBU_30
+    21300062: Wii U - Super Mario Maker - Bob-omb NSMBU_31
+    21300064: Wii U - Super Mario Maker - Bob-omb NSMBU_32
+    21300066: Wii U - Super Mario Maker - Bob-omb NSMBU_33
+    21300068: Wii U - Super Mario Maker - Bob-omb NSMBU_34
+    21300070: Wii U - Super Mario Maker - Bob-omb NSMBU_35
+    21300072: Wii U - Super Mario Maker - Bob-omb NSMBU_36
+    21300074: Wii U - Super Mario Maker - Bob-omb NSMBU_37
+    21300076: Wii U - Super Mario Maker - Bob-omb NSMBU_38
+    21300078: Wii U - Super Mario Maker - Bob-omb NSMBU_39
+    21300080: Wii U - Super Mario Maker - Bob-omb NSMBU_40
+    21300082: Wii U - Super Mario Maker - Bob-omb NSMBU_41
+    21300084: Wii U - Super Mario Maker - Bob-omb NSMBU_42
+    21300086: Wii U - Super Mario Maker - Bob-omb NSMBU_43
+    21300088: Wii U - Super Mario Maker - Bob-omb NSMBU_44
+    21300090: Wii U - Super Mario Maker - Bob-omb NSMBU_45
+    21300092: Wii U - Super Mario Maker - Bob-omb NSMBU_46
+    21300094: Wii U - Super Mario Maker - Bob-omb NSMBU_47
+    21300096: Wii U - Super Mario Maker - Bob-omb NSMBU_48
+    21300098: Wii U - Super Mario Maker - Bob-omb NSMBU_49
+    21300100: Wii U - Super Mario Maker - Bob-omb NSMBU_50
+    21300102: Wii U - Super Mario Maker - Bob-omb NSMBU_51
+    21300104: Wii U - Super Mario Maker - Bob-omb NSMBU_52
+    21300106: Wii U - Super Mario Maker - Bob-omb NSMBU_53
+    21300108: Wii U - Super Mario Maker - Bob-omb NSMBU_54
+    21300110: Wii U - Super Mario Maker - Bob-omb NSMBU_55
+    21300112: Wii U - Super Mario Maker - Bob-omb NSMBU_56
+    21300114: Wii U - Super Mario Maker - Bob-omb NSMBU_57
+    21300116: Wii U - Super Mario Maker - Bob-omb NSMBU_58
+    21300118: Wii U - Super Mario Maker - Bob-omb NSMBU_59
+    21300120: Wii U - Super Mario Maker - Bob-omb NSMBU_60
+    21300122: Wii U - Super Mario Maker - Bob-omb NSMBU_61
+    21300124: Wii U - Super Mario Maker - Bob-omb NSMBU_62
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1043.5555
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3533349b556c41f4b80b9b6cd408b886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1043.5555
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa137e26f5ecc54fa4a70c65c863740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1043.5555
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d071333d20191c142b9e8f0f17657c25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1043.5555
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52d4f92f5b29124ca31e27978351989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1043.5555
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b820be2f1a84514089e7ee3583ee9df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1043.5555
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268aeb5bf1d17794491a0b1e2d61b644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_6
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1043.5555
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315271d54c2b69f4f9de288316c4b055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6919e2b94f2b94eac94b7c05f48558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 913.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0de70276b4d9c4ab9f8182769e989d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 913.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d6d9372a0df044590a6f472ec68619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 913.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b43c8738248564e88f729150426fba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 913.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693ba86263d6f1a4787187ee89982342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 913.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbc0a095c0f0554a8677e8eeebc3cf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 913.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e63ebc5f70a9504f87e8da5969c746d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97188eeec2ee7714aaf5e7d340a739ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 783.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20630bab918431c40900e7888908e18e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 783.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4567a8d9426654b87adcbbd342d8e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 783.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0338590d830da42ba1500be49510f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 783.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d889a9c435fa1149b1dba09e0c5398b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_19
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 783.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de8432a6b8ebbf499b747736c6cf99f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 783.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faabfc47ee9d9d74f9336f01eb60ed9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 653.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7019dc70cdcf2c445bfed6e9a7717bcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 653.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da872dc6e5567d94d992e6c5684b634d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 653.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567bb248b3ac5084e89c8683c29f46a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 653.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506f0d3ed33a198448bd1a28b2b8f7d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 653.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0571ca18d3c5404faa29437198c7c0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_26
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 653.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5548eb2e46624b48a5792dd061a95d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 653.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e0aec0130373b458fbba975bafc8a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5c5c25c2a762546947afbf8f93e417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 523.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a8b74a8b016014fae122706efabb3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 523.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03132350cb1726a42bac1083fbdd6c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_31
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 523.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22787b934c684f46a83bd5277985966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_32
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 523.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfb004dcea94214080fec5add54932f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_33
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 523.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e795212b371787c4dbf9511a1b0a53df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_34
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 523.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684ef319e2fb7604ca29bf86329b826f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af56955a5475f5343963d14a0fd10a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 393.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90c7a4593dee1244995755137745c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 393.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3ca7f0c5b695745b43ecb038ae6c98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 393.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2274653ee404c6c4885b3742d1af93af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_39
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 393.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b0932a3ece1bf42b91236471040eef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_40
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 393.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200220c9eb754464abde82e7dd24d1bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_41
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 393.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b081f2b6484e14d959d4a8432df316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f7879e35f38d4690a0b6f4f05e81a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 263.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e977ab718eb38644ca99b2809321bf3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 263.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054564ce34b98ca4fbd60ed17ffa1cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_45
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 263.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9161c6a419be00148b3a425299467aa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_46
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 263.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877d89ec5042cdb4aa69b7e3bf4aed0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_47
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 263.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f87a53231fcab4b90b6ec4822540a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_48
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 263.55554
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f688f9b283b6b02458dde51613c7eb97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133.55556
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91d37a22a1fc59469dbceb92cb6af10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 133.55556
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c591de42c86034a89c987de806cfbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 133.55556
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9dbdc1443da704ebaf66228e5d6163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_52
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 133.55556
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f795d7b4ee310e64eb63d1781fcf48a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_53
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 133.55556
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892056fb05425694d999e82ff6d25949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_54
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 133.55556
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f31054c8de4a149aacc4eee20ceed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_55
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 133.55556
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838074a09f4f6fb4f89f297b9c131173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.5555573
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9a581ed6baee241a9048217e7de4ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3.5555573
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b007723ca6265eb4bacb4644f5e81e85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_58
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3.5555573
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a518dc77942a6a4d8286797241326da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_59
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3.5555573
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5988276b890f349b814a7187f3ebed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_60
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3.5555573
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ccbf511b82e334eb40879a661047cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_61
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3.5555573
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd4fb530cbb7ad46a2a285aa0fdfec9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Bob-omb NSMBU_62
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3.5555573
+        width: 130.14285
+        height: 130.44444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d731c484119f95f4c8a51eaad8473439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cd812e9a68cd5554398af53e1d3b8da2
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
